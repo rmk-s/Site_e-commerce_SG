@@ -1,0 +1,19 @@
+installer firebase cli:
+
+npm install -g firebase-tools
+
+se connecter depuis la console:
+
+firebase login
+
+Aide sur les commandes firebase:
+
+firebase help
+
+lister les projets actifs:
+
+firebase projects:list
+
+lister les bases de données:
+
+firebase database:instances:list --project <project-id>
