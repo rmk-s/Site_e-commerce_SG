@@ -10,7 +10,9 @@
     "dependencies": {
         "core-js": "^3.6.5",
         "firebase": "^8.6.3",
-        "vue": "^3.0.0",
+        "ftp-client": "^0.2.2",
+        "vue": "^3.0.11",
+        "vue-matomo": "^4.0.0",
         "vuefire": "^2.2.5"
     },
     "devDependencies": {

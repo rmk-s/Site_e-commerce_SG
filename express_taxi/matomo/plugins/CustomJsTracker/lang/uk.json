@@ -1,0 +1,7 @@
+{
+    "CustomJsTracker": {
+        "DiagnosticPiwikJsWritable": "Доступний для запису JavaScript трекер (%s)",
+        "DiagnosticPiwikJsNotWritable": "Файл Matomo JavaScript трекеру %s недоступний для запису, що означає, що інші плагіни не можуть використовувати JavaScript треккер. У майбутньому навіть деякі основні функції можуть не працювати, як очікується.",
+        "DiagnosticPiwikJsMakeWritable": "Ми рекомендуємо %1$s зробити доступним для запису, виконавши команду: %2$s"
+    }
+}
