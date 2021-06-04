@@ -1,17 +1,21 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <Header> </Header>
+  <HelloWorld msg="Bienvenue sur Express Taxi ! "/>
+  <FormInfoReservation> </FormInfoReservation>
   <Footer></Footer>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
 import Footer from './components/Footer.vue'
+import FormInfoReservation from './components/FormInfoReservation.vue'
+import Header from './components/Header.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld, Footer
+    HelloWorld, Footer, FormInfoReservation, Header
   }
 }
 </script>
