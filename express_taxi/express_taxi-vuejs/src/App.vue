@@ -1,13 +1,13 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <Header> </Header>
-  <HelloWorld msg="Bienvenue sur Express Taxi ! "/>
+  <Accueil> </Accueil>
   <FormInfoReservation> </FormInfoReservation>
   <Footer></Footer>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Accueil from './components/Accueil.vue'
 import Footer from './components/Footer.vue'
 import FormInfoReservation from './components/FormInfoReservation.vue'
 import Header from './components/Header.vue'
@@ -15,7 +15,7 @@ import Header from './components/Header.vue'
 export default {
   name: 'App',
   components: {
-    HelloWorld, Footer, FormInfoReservation, Header
+    Footer, FormInfoReservation, Header, Accueil
   }
 }
 </script>
