@@ -1,21 +1,27 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <Header> </Header>
-  <Accueil> </Accueil>
-  <FormInfoReservation> </FormInfoReservation>
-  <Footer></Footer>
+  <NavBar></NavBar>
+  <JumbotronAccueil></JumbotronAccueil>
+  <About></About>
+  <Horaire></Horaire>
+  <ReservationForm></ReservationForm>
+  <Contact></Contact>
+  <Footer></Footer> 
 </template>
 
 <script>
-import Accueil from './components/Accueil.vue'
+import Contact from './components/Contact.vue'
 import Footer from './components/Footer.vue'
-import FormInfoReservation from './components/FormInfoReservation.vue'
-import Header from './components/Header.vue'
+import NavBar from './components/NavBar.vue'
+import ReservationForm from './components/ReservationForm1.vue'
+import JumbotronAccueil from './components/JumbotronAccueil.vue'
+import Horaire from './components/Horaire.vue'
+import About from './components/About.vue'
 
 export default {
   name: 'App',
   components: {
-    Footer, Header, Accueil, FormInfoReservation
+    NavBar, JumbotronAccueil, ReservationForm, Contact, Footer, Horaire, About
   }
 }
 </script>
