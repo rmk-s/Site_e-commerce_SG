@@ -2,20 +2,21 @@
   <img alt="Vue logo" src="./assets/logo.png">
   <Header> </Header>
   <Accueil> </Accueil>
-  <FormInfoReservation> </FormInfoReservation>
+  //<FormInfoReservation> </FormInfoReservation>
   <Footer></Footer>
 </template>
 
 <script>
 import Accueil from './components/Accueil.vue'
 import Footer from './components/Footer.vue'
-import FormInfoReservation from './components/FormInfoReservation.vue'
+//import FormInfoReservation from './components/FormInfoReservation.vue'
 import Header from './components/Header.vue'
 
 export default {
   name: 'App',
   components: {
-    Footer, FormInfoReservation, Header, Accueil
+    Footer, Header, Accueil
+    //FormInfoReservation,
   }
 }
 </script>
