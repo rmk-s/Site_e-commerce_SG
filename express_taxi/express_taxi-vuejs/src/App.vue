@@ -1,5 +1,5 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <Header></Header>
   <NavBar></NavBar>
   <JumbotronAccueil></JumbotronAccueil>
   <About></About>
@@ -17,11 +17,13 @@ import ReservationForm from './components/ReservationForm1.vue'
 import JumbotronAccueil from './components/JumbotronAccueil.vue'
 import Horaire from './components/Horaire.vue'
 import About from './components/About.vue'
+import Header from './components/Header.vue'
+
 
 export default {
   name: 'App',
   components: {
-    NavBar, JumbotronAccueil, ReservationForm, Contact, Footer, Horaire, About
+    NavBar, JumbotronAccueil, ReservationForm, Contact, Footer, Horaire, About, Header, 
   }
 }
 </script>

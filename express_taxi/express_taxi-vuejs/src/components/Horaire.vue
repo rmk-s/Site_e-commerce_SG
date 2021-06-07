@@ -16,21 +16,24 @@
                 <div class="serv">
                     <i class="fa fa-calendar fa-lg"></i>
                     <h3 class="serv-desc">Lundi</h3>
-                    <p class="serv-title">✔️: Présent de 5 heures à 23 heures  ❌: Fermé de 23 heures à 5 heures</p>
+                    <p class="serv-title">✔️: Présent de 5 heures à 23 heures</p>
+                    <p class="serv-title"> ❌: Fermé de 23 heures à 5 heures</p>
                 </div>
             </div>
             <div class="col-md-4 col-xs-12">
                 <div class="serv">
                     <i class="fa fa-calendar fa-lg"></i>
                     <h3 class="serv-desc">Mardi</h3>
-                    <p class="serv-title">✔️: Présent de 5 heures à 23 heures ❌: Fermé de 23 heures à 5 heures</p>
+                    <p class="serv-title">✔️: Présent de 5 heures à 23 heures</p>
+                    <p class="serv-title"> ❌: Fermé de 23 heures à 5 heures</p>
                 </div>
             </div>
             <div class="col-md-4 col-xs-12">
                 <div class="serv">
                     <i class="fa fa-calendar fa-lg"></i>
                     <h3 class="serv-desc">Mercredi</h3>
-                    <p class="serv-title">✔️: Présent de 5 heures à 23 heures  ❌: Fermé de 23 heures à 5 heures</p>
+                   <p class="serv-title">✔️: Présent de 5 heures à 23 heures</p>
+                    <p class="serv-title"> ❌: Fermé de 23 heures à 5 heures</p>
                 </div>
             </div>
         </div>
@@ -40,21 +43,24 @@
                 <div class="serv">
                     <i class="fa fa-calendar fa-lg"></i>
                     <h3 class="serv-desc">Jeudi</h3>
-                    <p class="serv-title">✔️: Présent de 5 heures à 23 heures ❌: Fermé de 23 heures à 5 heures</p>
+                    <p class="serv-title">✔️: Présent de 5 heures à 23 heures</p>
+                    <p class="serv-title"> ❌: Fermé de 23 heures à 5 heures</p>
                 </div>
             </div>
             <div class="col-md-4 col-xs-12">
                 <div class="serv">
                     <i class="fa fa-calendar fa-lg"></i>
                     <h3 class="serv-desc">Vendredi</h3>
-                    <p class="serv-title">✔️: Présent de 5 heures à 23 heures ❌: Fermé de 23 heures à 5 heures</p>
+                    <p class="serv-title">✔️: Présent de 5 heures à 23 heures </p>
+                    <p class="serv-title"> ❌: Fermé de 23 heures à 5 heures</p>
                 </div>
             </div>
             <div class="col-md-4 col-xs-12">
                 <div class="serv">
                     <i class="fa fa-calendar fa-lg"></i>
                     <h3 class="serv-desc">Samedi</h3>
-                    <p class="serv-title">✔️: Présent de 5 heures à 23 heures  ❌: Fermé de 23 heures à 5 heures</p>
+                    <p class="serv-title">✔️: Présent de 5 heures à 23 heures</p>  
+                    <p class="serv-title"> ❌: Fermé de 23 heures à 5 heures</p>
                 </div>
             </div>
         </div>
