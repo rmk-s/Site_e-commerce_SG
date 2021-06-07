@@ -47,7 +47,7 @@
                 
                 <div class="col">
                     <div class="p-3 border bg-light">
-                        La map :
+                        La map : 
                         <iframe
                             width="400"
                             height="325"
@@ -66,11 +66,11 @@
 
 <script>
 
-
 </script>
 
 
 <style scoped>
+#mapid { height: 180px; }
 
 body{
     font-family: lucida Sans;
