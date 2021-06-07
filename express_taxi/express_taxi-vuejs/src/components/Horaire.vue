@@ -68,6 +68,18 @@
 
 <style scoped>
 /*time section*/
+body{
+    font-family: lucida Sans;
+}
+
+.sections{
+    padding: 20px 0;
+}
+
+.section-title{
+    padding-top: 2%;
+    margin-top: 2%;
+}
  /*time section*/
 
 .times {
